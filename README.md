@@ -6,3 +6,5 @@ Pinyin with number suffixes separated by spaces, ex. `zao3 shang4 hao3 zhong1 gu
 
 Output:
 Pinyin with tone marks, ex. `zǎo shàng hǎo zhōng guó`
+
+Run in terminal with `python3 [path to pinyin.py]`
